@@ -7,7 +7,7 @@
 
 <div style="text-align: center;">
   <a href="https://ibb.co/N6NMDtn">
-    <img src="https://i.imgur.com/XlQIFIF.jpeg" alt="01" border="0" /></a>
+    alt="01" border="0" /></a>
   </a>
 
   </a>
@@ -20,7 +20,7 @@
       <b>FORK</b><br>
       Fork the repository to customize and use the bot for your needs.
       <br><br>
-      <a href="https://github.com/keithkeizzah/KEITH-MD/fork">
+      <a href="https://github.com/Anuga123/Anuga-MD-WhatsApp-bot/fork">
         <img src="https://img.shields.io/badge/FORK-purple" alt="FORK KEITH" width="150">
       </a>
     </td>
@@ -46,7 +46,7 @@
       <b>DEPLOY</b><br>
       Deploy the bot to your server or platform of choice using the button below.
       <br><br>
-      <a href="https://dashboard.heroku.com/new?button-url=https://github.com/keithkeizzah/KEITH-MD&template=https://github.com/keithkeizzah/KEITH-MD.git">
+      <a href="https://dashboard.heroku.com/new?button-url=https://github.com/keithkeizzah/KEITH-MD&template=https://github.com/Anuga123/Anuga-MD-WhatsApp-bot.git">
         <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy to Heroku">
       </a>
     </td>
@@ -77,8 +77,8 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/Keithkeizzah/KEITH-MD/network/members">
-    <img src="http://reporoster.com/forks/dark/Keithkeizzah/KEITH-MD" alt="Forkers repo roster for @Keithkeizzah/KEITH-MD">
+  <a href="https://github.com/Anuga123/Anuga-MD-WhatsApp-bot/network/members">
+    
   </a>
 </p>
 
