@@ -1,5 +1,6 @@
 /*I wrote a script to automate my job. Now I just sit back and watch Netflix while it runs.*/
 
+img : https://anuga-md.blogspot.com/2025/04/picture.html
 const session = process.env.SESSION || '';
 
 const prefix = process.env.PREFIX || '';
