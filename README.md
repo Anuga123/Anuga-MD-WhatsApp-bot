@@ -39,7 +39,7 @@
       Visit our website for ANUGA MD APIs and integrations though still updating.
       <br><br>
       <a href="https://apis-keith.vercel.app/">
-        <img src="https://img.shields.io/badge/Visit%20KEITH%20APIs-blue" alt="Visit KEITH APIs" width="200">
+        <img src="https://img.shields.io/badge/Visit%20KEITH%20APIs-blue" alt="Visit ANUGA MD APIs" width="200">
       </a>
     </td>
     <td align="center">
@@ -77,8 +77,9 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/Anuga123/Anuga-MD-WhatsApp-bot/network/members">
-    
+  <a href="https://github.com/Anuga123/Anuga-MD-WhatsApp-bot/network/members"
+
+<h1 align="center">Powered by Anuga-MD</h1>
   </a>
 </p>
 
