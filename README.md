@@ -21,7 +21,7 @@
       Fork the repository to customize and use the bot for your needs.
       <br><br>
       <a href="https://github.com/Anuga123/Anuga-MD-WhatsApp-bot/fork">
-        <img src="https://img.shields.io/badge/FORK-purple" alt="FORK KEITH" width="150">
+        <img src="https://img.shields.io/badge/FORK-purple" alt="FORK ANUGA MD" width="150">
       </a>
     </td>
     <td align="center">
@@ -35,8 +35,8 @@
   </tr>
   <tr>
     <td align="center">
-      <b>KEITH APIs</b><br>
-      Visit our website for Keith APIs and integrations though still updating.
+      <b>ANUGA-MD APIs</b><br>
+      Visit our website for ANUGA MD APIs and integrations though still updating.
       <br><br>
       <a href="https://apis-keith.vercel.app/">
         <img src="https://img.shields.io/badge/Visit%20KEITH%20APIs-blue" alt="Visit KEITH APIs" width="200">
