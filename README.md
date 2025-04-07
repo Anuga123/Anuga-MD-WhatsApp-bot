@@ -1,6 +1,6 @@
 
 
-<h1 align="center">𝗞𝗘𝗜𝗧𝗛-𝗠𝗗</h1>
+<h1 align="center">Anuga-MD</h1>
 
 <h1 align="center">Survival is winning, frankline everything else is bullshit, fairy tales spun by people afraid to look life in the eye, do whatever it takes kid, survive 😏🙏</h1>
 
