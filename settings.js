@@ -3,12 +3,12 @@
 const session = process.env.SESSION || '';
 
 const prefix = process.env.PREFIX || '';
-const mycode = process.env.CODE || "254";
-const author = process.env.OWNER_NAME || 'Keith';
-const packname = process.env.PACKNAME || 'keith';
-const dev = process.env.OWNER_NUMBER || '254748387615';
+const mycode = process.env.CODE || "94";
+const author = process.env.OWNER_NAME || 'ANUGA SENITHU';
+const packname = process.env.PACKNAME || 'Anuga MD';
+const dev = process.env.OWNER_NUMBER || '94710695082';
 const DevKeith = dev.split(",");
-const botname = process.env.BOTNAME || 'KEITH-MD';
+const botname = process.env.BOTNAME || 'ANUGA MD';
 const mode = process.env.MODE || 'public';
 const gcpresence = process.env.GC_PRESENCE || 'false';
 const antionce = process.env.ANTIVIEWONCE || 'true';
@@ -16,8 +16,7 @@ const sessionName = "session";
 const presence = process.env.WA_PRESENCE || 'online';
 const herokuapikey = process.env.HEROKU_API_KEY || '';
 const herokuAppname = process.env.HEROKU_APP_NAME || '';
-const url = process.env.URL || 'https://files.catbox.moe/mikdi0.jpg';
-const gurl = process.env.GURL || 'https://whatsapp.com/channel/0029Vaan9TF9Bb62l8wpoD47';
+const gurl = process.env.GURL || 'https://whatsapp.com/channel/0029Vb4dWNs47XeHxfdv8b0y';
 const reactemoji = process.env.EMOJI || '💚';
 const antitag = process.env.ANTITAG || 'true';
 const groupControl = process.env.GROUP_CONTROL || 'true';
@@ -37,7 +36,7 @@ const autoread = process.env.AUTOREAD || 'true';
 const permit = process.env.PM_PERMIT || 'true';
 const voicechatbot = process.env.VOICECHATBOT || 'true';
 const voicechatbot2 = process.env.VOICECHATBOT2 || 'true';
-const anticallmsg = process.env.ANTICALL_MSG || 'Keith declined your 🤙 call';
+const anticallmsg = process.env.ANTICALL_MSG || 'ANUGA SENITHU declined your 🤙 call';
 const autobio = process.env.AUTOBIO || 'false';
 
 const { Sequelize } = require('sequelize'); // Ensure Sequelize is imported
