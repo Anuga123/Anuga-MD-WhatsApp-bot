@@ -79,6 +79,8 @@
 <p align="center">
   <a href="https://github.com/Anuga123/Anuga-MD-WhatsApp-bot/network/members"
 
+  Follow us on WhatsApp - https://whatsapp.com/channel/0029Vb4dWNs47XeHxfdv8b0y
+
 <h1 align="center">Powered by Anuga-MD</h1>
   </a>
 </p>
